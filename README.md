@@ -20,7 +20,6 @@ Simple offline authenticator for your farm.
 ]
 </code>
 <img src="https://i.postimg.cc/j5qt1sYP/1.png" alt="" border="0">
-      
 2. Finally you should open start.py and chose your file name.
 <img src="https://i.postimg.cc/B6h49dJy/3.png" alt="" border="0">
 </center>
