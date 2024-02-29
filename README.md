@@ -10,7 +10,7 @@ Simple offline authenticator for your farm.
 
 ## Documentation
 <center>
-1. First of all you should add your (your name).json file type:
+1. First of all you should add your (your name).json file type in data folder:
 <code>
 [
   {
